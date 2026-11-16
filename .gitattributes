@@ -1,0 +1,49 @@
+*.cs text diff=csharp
+*.cginc text
+*.shader text
+
+# Unity YAML assets
+*.anim text eol=lf
+*.asset text eol=lf
+*.controller text eol=lf
+*.mat text eol=lf
+*.meta text eol=lf
+*.physicMaterial text eol=lf
+*.physicMaterial2D text eol=lf
+*.physicsMaterial text eol=lf
+*.physicsMaterial2D text eol=lf
+*.prefab text eol=lf
+*.unity text eol=lf
+
+# Binary assets
+*.a binary
+*.aif binary
+*.aiff binary
+*.avi binary
+*.bmp binary
+*.dll binary
+*.dylib binary
+*.exe binary
+*.flac binary
+*.gif binary
+*.jpeg binary
+*.jpg binary
+*.lib binary
+*.m4a binary
+*.m4v binary
+*.mov binary
+*.mp3 binary
+*.mp4 binary
+*.ogg binary
+*.otf binary
+*.pdf binary
+*.png binary
+*.psd binary
+*.so binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.ttf binary
+*.wav binary
+*.webm binary
+*.wmv binary
